@@ -1,0 +1,32 @@
+.tshirt img{
+  width: 200px;
+  border-radius: 10px;
+  margin-top: 20px;
+  
+}
+.tshirt{
+    box-shadow: 10px 10px 50px;
+    border-radius: 10px;
+    margin-top: 20px;
+    position: relative;
+    height: 450px;
+    
+}
+.addtocartbutton{
+    width: 100%;
+    border: none;
+    background-color: coral;
+    color: white;
+    height: 30px;
+    border-radius: 10px;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  bottom: 0px;
+    
+    
+}
+.addtocartbutton:hover{
+  background-color: orange;
+}
